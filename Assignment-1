@@ -1,0 +1,16 @@
+1. HTML stands for Hypertext Markup Language. It is a basic scripting language which defines the content and structure of web page.
+2. HTML tags and elements are not the same thing.
+3. Tags are used to define elements in the webpage. eg: <h1></h1>, <p></p>
+   Attributes provides additional information about elements. Eg: <img src=" ">
+4. Void elements are the tags which does not require any closing tags. Eg: <br>,<hr>
+5. (i) HTML provides fundamental structure for web page.
+  (ii) HTML supports adding multimedia like images, videos etc..
+ (iii) It integrates with CSS and Javascript.
+6. HTML:
+(i) HTML stands for Hypertext Markup Language.
+(ii) It is not a case sensitive.
+(iii) All contents can be included in body element.
+XHTML:
+(i) XHTML stands for Extensible Hypertext Markup Language.
+(ii) It is case sensitive.
+(iii) All contents must be put in a block.
